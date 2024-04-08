@@ -1,6 +1,4 @@
 /bootstrap/compiled.php
-.env.*.php
-.env.php
 /app/Exceptions
 /node_modules
 /public/assets
@@ -24,7 +22,6 @@ updates/
 composer.lock
 *.lock
 resources/lang/en.json
-.env
 updates.zip
 ecommerce.zip
 install.zip
