@@ -19,8 +19,7 @@ yarn-error.log
 .idea/
 
 updates/
-composer.lock
-*.lock
+
 resources/lang/en.json
 updates.zip
 ecommerce.zip
